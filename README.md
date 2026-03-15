@@ -6,8 +6,7 @@
   
 ### 👨‍💻 About Me
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Apps;Exploring+App+&+Game+Development;AI+Integration+Specialist;CS+Student+@+UIIT+(2027);I+Use+Arch+Btw+🐧" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Exploring+AI+Integration;UIIT+27';I+use+Arch+btw+%3A)" alt="Typing SVG" />
 </a>
 
 <br/>
