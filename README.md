@@ -12,12 +12,12 @@
 
 <br/>
 
-I am a **Computer Science Student** at UCP with a passion for building software that matters. <br/>
+I am a **Computer Science Student** at PMAS ARID RAWALPINDI with a passion for building software that matters. <br/>
 I specialize in **Cross-Platform Mobile Development** using Flutter and am deeply exploring **Systems Programming** with Rust.
 
 - 🔭 **Working on:** A Pharmacy POS System & AI Chatbots.
 - 🐧 **Daily Driver:** Arch Linux.
-- 🌱 **Learning:** Rust & Cyber Security.
+- 🌱 **Learning:** Game Development & AI integration.
 - ⚡ **Philosophy:** *"It's not a bug, it's an undocumented feature."*
 
 <br/>
