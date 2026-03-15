@@ -6,7 +6,7 @@
   
 ### 👨‍💻 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Exploring+AI+Integration;UIIT+27';I+use+Arch+btw+%3A)" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Exploring+AI+Integration;UIIT+27';I+use+Arch+btw+%3A)" alt="Typing SVG" style="align:center;" />
 </a>
 
 <br/>
