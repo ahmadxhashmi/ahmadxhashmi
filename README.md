@@ -6,15 +6,14 @@
   
 ### 👨‍💻 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer;Exploring+AI+Integration;UIIT+27';I+use+Arch+btw+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Flutter+Developer;Exploring+AI+Integration;UIIT+27';I+develop+Games+btw+%3A)" alt="Typing SVG" /></a>
 
 <br/>
 
 I am a **Computer Science Student** at PMAS ARID RAWALPINDI with a passion for building software that matters. <br/>
 I specialize in **Cross-Platform Mobile Development** using Flutter and am deeply exploring **Systems Programming** with Rust.
 
-- 🔭 **Working on:** A Pharmacy POS System & AI Chatbots.
-- 🐧 **Daily Driver:** Arch Linux.
+- 🔭 **Working on:** LOGIC LOCK CODING PUZZLE GAME.
 - 🌱 **Learning:** Game Development & AI integration.
 - ⚡ **Philosophy:** *"It's not a bug, it's an undocumented feature."*
 
@@ -26,7 +25,7 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 <a href="mailto:ahmadhashmi123123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
-<a href="www.linkedin.com/">
+<a href="www.linkedin.com/in/ahmad-hashmi-3b206b363">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 
